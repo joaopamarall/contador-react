@@ -6,6 +6,10 @@
 - Estado do Componente: Utilizei o estado do componente para rastrear o valor do contador.
 - Lógica de Atualização: Implementei a lógica para inicializar o contador ao carregar a tela e para atualizá-lo quando os botões são clicados.
 
+## Evidências:
+![Imagem do WhatsApp de 2023-12-15 à(s) 16 31 05_80355f3e](https://github.com/joaopamarall/contador-react/assets/103014937/fe638c1f-e560-46f4-8b12-05346ee3d207)
+
+
 
 ## Project setup
 ```
